@@ -14,6 +14,7 @@ layout: default
     {% if page.date %}
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <span>in&nbsp;{{page.categories}}</span>
     {% endif %}
   </div>
 
