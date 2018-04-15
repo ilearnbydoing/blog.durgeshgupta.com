@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Freelance Web Designer in Ambarnath
-date: '2018-04-10T00:00:00+05:30'
+title: Freelance Web Designer In Ambarnath
+date: '2018-04-15T16:09:40+05:30'
 thumbnail: /img/uploads/freelancer-in-ambarnath.jpg
 ---
 Hi, My self is Durgesh Gupta and I am one of the freelance web designer based in Ambarnath. I offer wide range of web related services i.e. web designing, web development and marketing.
