@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Durgesh Gupta"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+A freelance web consultant based on Mumbai.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I am a web professional who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly a decade, and have been loving every minute of it. I am an online marketer, entrepreneur, designer, open source developer, and overall thinker, offering over 10 years of experience on open source technologies i.e. PHP, WordPress, CSS 2/3, xHTML/html5, SEO/SEM/SMO/SMM. I have excelled my skills in WordPress, Joomla, PHP, MySQL, Javascript, HTML, Jquery, Woocommerce, and CSS to name a few. Individually I take web project and discuss in detail and determine how my skills will positively contribute to project.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+Thanks for reading about me!
