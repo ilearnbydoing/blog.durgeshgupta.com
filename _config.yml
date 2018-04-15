@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Durgesh Gupta Blog
+description:    "Durgesh Gupta Blog"
 baseurl:        ""
 url:            ""
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Dugresh Gupta
+  url:          https://durgeshgupta.com
+  email:        durgesh@durgeshgupta.com
 
 # Build settings
 markdown:       kramdown
